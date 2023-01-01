@@ -4,14 +4,14 @@ title: About me
 subtitle: 안녕하세요, 신입개발자 장윤서입니다 
 ---
 
-### **ʜɪ, ɪ’ᴍ ʏᴏᴜɴsᴇᴏ ᴊᴀɴɢ** 👋
+### **Hi, I am Younseo Jang** 👋
 
 ---
 
 Junior Back-end Developer since Sep, 2022    
 
-sᴘʀɪɴɢʙᴏᴏᴛ & ᴊᴀᴠᴀ를 공부하고 있습니다! 🙋‍♀️     
-좋은 개발자가 되기 위해 1 ᴅᴀʏ 1 ᴄᴏᴍᴍɪᴛ 1 ᴀʟɢᴏʀɪᴛʜᴍ 운동 실천중 🏃‍♀️🏃‍      
+Springboot & Java를 공부하고 있습니다! 🙋‍♀️     
+좋은 개발자가 되기 위해 1 day 1 commit 1 algorithm 운동 실천중 🏃‍♀️🏃‍      
 
  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=younseo1016&color=dark)](https://velog.io/@younseo1016)
@@ -21,7 +21,7 @@ sᴘʀɪɴɢʙᴏᴏᴛ & ᴊᴀᴠᴀ를 공부하고 있습니다! 🙋‍♀�
 
 
 
-### ᴡʜᴀᴛ ɪ ᴀᴍ sᴛᴜᴅʏɪɴɢ 📚
+### What I am Studying 📚
 
 ---
 
